@@ -1,6 +1,6 @@
 #include <iostream>
 
 int main(){
-    std::cout<<"fuck bery anal";
+    std::cout<<"hello";
     return 0;
 }
